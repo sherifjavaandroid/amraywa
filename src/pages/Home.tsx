@@ -166,7 +166,7 @@ export default function Home() {
           <div className="footer">
             <p>&copy; 2025 AMR AYMAN. All rights reserved.</p>
             <p>
-              Developed By <span className="footer-highlight">SHERLOCK</span>
+              Developed By <span className="footer-highlight">Lhytham</span>
             </p>
           </div>
         </div>
