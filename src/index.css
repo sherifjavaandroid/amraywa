@@ -30,7 +30,8 @@
     background-color: #040604;
     color: #ffffff;
     font-family: 'Rajdhani', sans-serif;
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
     margin: 0;
     padding: 0;
     min-height: 100vh;

@@ -1,0 +1,56 @@
+- generic [ref=e4]:
+  - generic:
+    - img "Amr Ayman Profile"
+  - heading "AMR AYMAN" [level=1] [ref=e5]
+  - generic [ref=e6]:
+    - paragraph [ref=e7]: Pro Gamer // Streamer
+    - paragraph [ref=e8]: Content Creator // Live Daily
+  - paragraph [ref=e9]: aywagdan96@gmail.com
+  - generic [ref=e10]:
+    - link "KICK" [ref=e11] [cursor=pointer]:
+      - /url: https://kick.com/amrayman_10
+      - img [ref=e14]
+      - generic [ref=e16]: KICK
+    - link "DONATION" [ref=e17] [cursor=pointer]:
+      - /url: https://tip.dokan.sa/amrayman10
+      - img [ref=e20]
+      - generic [ref=e22]: DONATION
+    - link "STREAMLABS TIP" [ref=e23] [cursor=pointer]:
+      - /url: https://streamlabs.com/aywa_10/tip
+      - img [ref=e26]
+      - generic [ref=e30]: STREAMLABS TIP
+    - link "INSTAPAY" [ref=e31] [cursor=pointer]:
+      - /url: https://ipn.eg/S/amrayman_10/instapay/5X2vib
+      - img [ref=e34]
+      - generic [ref=e37]: INSTAPAY
+    - link "TELDA · amrayman10" [ref=e38] [cursor=pointer]:
+      - /url: https://telda.app
+      - img [ref=e41]
+      - generic [ref=e43]: TELDA · amrayman10
+    - link "YOUTUBE" [ref=e44] [cursor=pointer]:
+      - /url: https://www.youtube.com/@aywa_10
+      - img [ref=e47]
+      - generic [ref=e50]: YOUTUBE
+    - link "TIKTOK" [ref=e51] [cursor=pointer]:
+      - /url: https://www.tiktok.com/@amrayman_10
+      - img [ref=e54]
+      - generic [ref=e56]: TIKTOK
+    - link "INSTAGRAM" [ref=e57] [cursor=pointer]:
+      - /url: https://www.instagram.com/amrayman_10
+      - img [ref=e60]
+      - generic [ref=e63]: INSTAGRAM
+    - link "X" [ref=e64] [cursor=pointer]:
+      - /url: https://x.com/amrayman_10
+      - img [ref=e67]
+      - generic [ref=e69]: X
+    - link "FACEBOOK" [ref=e70] [cursor=pointer]:
+      - /url: https://www.facebook.com/aywagdan96/?locale=ar_AR
+      - img [ref=e73]
+      - generic [ref=e75]: FACEBOOK
+    - link "DISCORD" [ref=e76] [cursor=pointer]:
+      - /url: https://discord.com/invite/GUYCgxXuf
+      - img [ref=e79]
+      - generic [ref=e81]: DISCORD
+  - generic [ref=e82]:
+    - paragraph [ref=e83]: © 2025 AMR AYMAN. All rights reserved.
+    - paragraph [ref=e84]: Developed By SHERLOCK
